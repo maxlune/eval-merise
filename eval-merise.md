@@ -12,6 +12,8 @@ PhotoList (id, name, path)
 
 ## Script SQL
 
+Petite précision : En éxecutant les instructions une à une dans l'ordre, ça fonctionne. Par contre ça ne marche pas en éxecutant tout d'un coup. Je ne sais pas exactement pourquoi.
+
 ```sql
 CREATE TABLE Student (
     id INT PRIMARY KEY,
