@@ -1,13 +1,13 @@
 ## MLD
 
-Student (id, email, password)
-Teacher (id, email, password)
-Course (id, course_name)
-Session (id, session_name, student_id, teacher_id, course_id, photolist_id schedule_id, DateTime)
-Assessement (id, assessement_type_id, session_id, score)
-AssessementType (id, assessement_type_name)
-Schedule (id, start_date, end_date)
-PhotoList (id, name, path)
+Student (id, email, password)  
+Teacher (id, email, password)  
+Course (id, course_name)  
+Session (id, session_name, student_id, teacher_id, course_id, photolist_id schedule_id, DateTime)  
+Assessement (id, assessement_type_id, session_id, score)  
+AssessementType (id, assessement_type_name)  
+Schedule (id, start_date, end_date)  
+PhotoList (id, name, path)  
 
 
 ## Script SQL
